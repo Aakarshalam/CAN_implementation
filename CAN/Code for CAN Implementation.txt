@@ -86,5 +86,5 @@ HAL_CAN_Receive_IT(&hcan1, CAN_FIFO0) ;
   /* USER CODE END 3 */
 }
 
-Then defining the function for the bit timing paramerters in void hal_can function
-<Technically should work>........
+//Then defining the function for the bit timing paramerters in void hal_can function
+//<Technically should work>........
