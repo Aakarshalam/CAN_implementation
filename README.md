@@ -1,2 +1,4 @@
-**CAN Implementation** \n
-This Repository contains the files for basic CAN Implementation along with the resources requried for it. The code file present is for _initialization_ and _setting up CAN_ in any STM device and building the required tasks upon that file.
+# **CAN Implementation**
+
+This repository contains the files for a basic CAN implementation along with the resources required for it.  
+The provided code file focuses on **initialization** and **setup of CAN** on STM microcontrollers. You can build your custom tasks and logic on top of this base setup.
